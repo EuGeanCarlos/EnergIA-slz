@@ -1,3 +1,60 @@
+# EnergIA SLZ — consumo energético
+
+Aplicação de navegador para cadastro de usuário/aparelhos e estimativas de consumo mensal, custo e emissão de CO₂.
+
+## Tecnologias
+
+- HTML
+- CSS
+- JavaScript
+- localStorage
+
+## Funcionalidades e utilização
+
+Informe tarifa, potência, quantidade e horas de uso dos aparelhos; atualize o relatório. Os resultados são estimativas, e o projeto não é um medidor físico.
+
+## Como executar
+
+```bash
+git clone https://github.com/EuGeanCarlos/EnergIA-slz.git
+cd EnergIA-slz
+python -m http.server 8000 --directory "."
+```
+
+Requer Python 3 para o servidor local. Abra http://localhost:8000.
+
+## Demonstração e publicação
+
+Execução local. Nenhuma demonstração nova foi confirmada nesta etapa.
+
+## Estrutura versionada
+
+```text
+README.md
+img/logo-energIA.png
+index.html
+script.js
+styles.css
+```
+
+## Status
+
+Protótipo / projeto de estudo em desenvolvimento. A descrição acima distingue o que está implementado das dependências ou etapas pendentes.
+
+## Autor e créditos
+
+**Gean Carlos** — estudante de Engenharia de Computação, UEMA.
+
+[GitHub](https://github.com/EuGeanCarlos)
+
+Licenças, autoria compartilhada e atribuições existentes no código e nos materiais originais permanecem aplicáveis.
+
+---
+
+## Documentação original e contexto
+
+O material original a seguir preserva contexto, créditos e planejamento. Para execução e limitações atuais, considere as seções de auditoria acima.
+
 # 🌱 Energia Inteligente SLZ
 
 **Eficiência energética acessível para São Luís (MA)**
