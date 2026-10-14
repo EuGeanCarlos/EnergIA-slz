@@ -25,7 +25,7 @@ Requer Python 3 para o servidor local. Abra http://localhost:8000.
 
 ## Demonstração e publicação
 
-Execução local. Nenhuma demonstração nova foi confirmada nesta etapa.
+[Acessar demonstração verificada](https://eugeancarlos.github.io/EnergIA-slz/)
 
 ## Estrutura versionada
 
@@ -258,3 +258,7 @@ Resultados claros, mensuráveis e diretamente conectados à realidade da Equator
 **Energia Inteligente SLZ**
 
 Tecnologia só importa quando melhora a vida real. Aqui, ela faz exatamente isso.
+
+## Validação desta auditoria — 14/10/2026
+
+PUBLICADO: [workflow confirmado](https://github.com/EuGeanCarlos/EnergIA-slz/actions/runs/38607968598), HTTP 200, conteúdo correspondente ao projeto e 2 recursos locais verificados. Empacotamento local e sintaxe dos arquivos JavaScript verificados; teste funcional completo e responsividade não foram executados.
